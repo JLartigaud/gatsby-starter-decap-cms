@@ -2,7 +2,7 @@
 templateKey: index-page
 title: La TVA c'est de la merde
 image: /img/home-jumbotron.jpg
-heading: DE K
+heading: Coucou ça va bonjour
 subheading: DE LA MERDE JVOUS DIT
 mainpitch:
   title: Why Kaldi
